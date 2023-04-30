@@ -1,0 +1,5 @@
+b = int(input())
+n = int(input())
+q = int(input())
+c = b * q ** (n -1)
+print(c)
